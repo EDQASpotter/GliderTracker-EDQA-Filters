@@ -11,7 +11,7 @@ Import the lists to Glidertracker.de
 Dobenreuth
 
 ```bash
-glidertracker.de/#lst=https://raw.githubusercontent.com/EDQASpotter/GliderTracker-EDQA-Filters/main/Dobenreuth
+https://glidertracker.de/#lst=https://raw.githubusercontent.com/EDQASpotter/GliderTracker-EDQA-Filters/main/Dobenreuth
 ```
 	
 
