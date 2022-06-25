@@ -10,13 +10,15 @@ Import the lists to Glidertracker.de
 
 Dobenreuth
 
-```glidertracker.de/#lst=https://raw.githubusercontent.com/EDQASpotter/GliderTracker-EDQA-Filters/main/Dobenreuth
+```bash
+glidertracker.de/#lst=https://raw.githubusercontent.com/EDQASpotter/GliderTracker-EDQA-Filters/main/Dobenreuth
 ```
 	
 
 EDQA
 
-```glidertracker.de/#lst=https://raw.githubusercontent.com/EDQASpotter/GliderTracker-EDQA-Filters/main/EDQA
+```bash
+glidertracker.de/#lst=https://raw.githubusercontent.com/EDQASpotter/GliderTracker-EDQA-Filters/main/EDQA
 ```
 
 	
