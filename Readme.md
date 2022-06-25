@@ -8,17 +8,10 @@ This repository contains a set of scripts and files to setup a twitterbot based 
 Import the lists to Glidertracker.de
 ---
 
-Dobenreuth
 
-```bash
-https://glidertracker.de/#lst=https://raw.githubusercontent.com/EDQASpotter/GliderTracker-EDQA-Filters/main/Dobenreuth
-```
-	
 
-EDQA
+[Dobenreuth](https://glidertracker.de/#lst=https://raw.githubusercontent.com/EDQASpotter/GliderTracker-EDQA-Filters/main/Dobenreuth)
 
-```bash
-glidertracker.de/#lst=https://raw.githubusercontent.com/EDQASpotter/GliderTracker-EDQA-Filters/main/EDQA
-```
 
-	
+
+[EDQA](glidertracker.de/#lst=https://raw.githubusercontent.com/EDQASpotter/GliderTracker-EDQA-Filters/main/EDQA)
