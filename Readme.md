@@ -9,4 +9,4 @@ Import the lists to Glidertracker.de
 
 
 
-[EDQA](glidertracker.de/#lst=https://raw.githubusercontent.com/EDQASpotter/GliderTracker-EDQA-Filters/main/EDQA)
+[EDQA](https://glidertracker.de/#lst=https://raw.githubusercontent.com/EDQASpotter/GliderTracker-EDQA-Filters/main/EDQA)
