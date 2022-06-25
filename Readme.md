@@ -1,10 +1,5 @@
 Favorite List for Glidertracker.de
 ===
-
-This repository contains a set of scripts and files to setup a twitterbot based on ADS-B data.
-
-* 
-
 Import the lists to Glidertracker.de
 ---
 
